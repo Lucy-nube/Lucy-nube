@@ -1,5 +1,5 @@
 ## ꧁ঔৣ☬✞𝓵𝓾𝖈𝔂✞☬ঔৣ꧂
-##         🦄
+##             🦄
 🦋 🌱 ConquerBlocks student of Full Stack Development.
 🦋 🔭 Currently working with :  
 🦋 🇵🇾✅ Python 
