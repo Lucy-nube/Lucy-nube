@@ -1,5 +1,5 @@
-![MasterHead]()
-(img align="right" alt="Coding" width="200" src="![backgroung](https://github.com/user-attachments/assets/057cc9df-cf39-45d0-9617-3a448ae39ea4)")
+
+![backgroung](https://github.com/user-attachments/assets/057cc9df-cf39-45d0-9617-3a448ae39ea4)
 <h1 align="center">Hi 👋, I'm Lucia</h1>
 <h3 align="center">A passionate full stack developer from Spain.</h3>
 
