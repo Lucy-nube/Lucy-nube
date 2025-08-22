@@ -63,7 +63,7 @@ I hope you enjoy exploring my repository! Thanks for visiting! 👋
 
 ## Acerca de este repositorio 📁
 
-En este repositorio encontrarás el código fuente de mi página web personal, donde muestro mis proyectos, habilidades y mi evolución como desarrollador. Mi objetivo es crear soluciones web innovadoras y explorar las emocionantes posibilidades de la IA.
+En este repositorio encontrarás el código fuente de mi página web personal, donde muestro mis proyectos, habilidades y mi evolución como desarrolladora. Mi objetivo es crear soluciones web innovadoras y explorar las emocionantes posibilidades de la IA.
 
 <br>
 
