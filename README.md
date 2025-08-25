@@ -2,7 +2,7 @@
 # Hi, I'm Lucia De Leon 👩🏼‍💻 EN
 ### Full-Stack Developer and IA student🚀
 
-![backgroung](https://github.com/user-attachments/assets/39f6d214-29ab-44c8-abc3-6040068a1429)
+![backgroung witdh](https://github.com/user-attachments/assets/8f3aed7f-3e67-40ed-8354-6f05416672ab)
 
 <br>
 Salut! I´m Lucia De Leon , a passionate aspiring Full-Stack developer and a AI enthusiast. This is my space where I share my journey in the world of web development and AI.
@@ -55,7 +55,7 @@ I hope you enjoy exploring my repository! Thanks for visiting! 👋
 # Hola, mi nombre es Lucia De Leon 👩🏼‍💻 🇪🇸
 ### Desarrollador Full-Stack y estudiante de IA 🚀
 
-![backgroung](https://github.com/user-attachments/assets/1b4c1c08-acbb-4e6c-8147-6797d9edf09e)
+![backgroung](https://github.com/user-attachments/assets/8f3aed7f-3e67-40ed-8354-6f05416672ab)
 
 ¡Saludos! Soy Lucia De Leon, una apasionada aprendiz de desarrollo Full-Stack e IA. Este es mi espacio donde comparto mi viaje en el mundo del desarrollo web .
 
