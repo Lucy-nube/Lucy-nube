@@ -1,5 +1,5 @@
 
-# Hi, I'm Lucia De Leon 👩🏼‍💻 EN
+# Hi, I'm Lucia De León 👩🏼‍💻 EN
 ### Full-Stack Developer and IA student🚀
 
 ![backgroung witdh](https://github.com/user-attachments/assets/8f3aed7f-3e67-40ed-8354-6f05416672ab)
@@ -53,7 +53,7 @@ I hope you enjoy exploring my repository! Thanks for visiting! 👋
 
 ------
 
-# Hola, mi nombre es Lucia De Leon 👩🏼‍💻 🇪🇸
+# Hola, mi nombre es Lucia De León 👩🏼‍💻 🇪🇸
 ### Desarrollador Full-Stack y estudiante de IA 🚀
 
 ![backgroung](https://github.com/user-attachments/assets/8f3aed7f-3e67-40ed-8354-6f05416672ab)
