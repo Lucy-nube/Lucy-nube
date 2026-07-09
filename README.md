@@ -2,8 +2,8 @@
 # Hi, I'm Lucia De León 👩🏼‍💻 EN
 ### Full-Stack Developer and IA student🚀
 
-<img width="1983" height="793" alt="ChatGPT Image 9 jul 2026, 21_50_19" src="https://github.com/user-attachments/assets/fb100ecd-11e9-46e0-a8db-a59d5068e2fa" />
-)
+<img width="1983" height="793" alt="ChatGPT Image 9 jul 2026, 22_14_04" src="https://github.com/user-attachments/assets/d5239dfb-d270-474f-bbb6-5527a542d4f9" />
+
 
 <br>
 Salut! I´m Lucia De Leon , a passionate aspiring Full-Stack developer and a AI enthusiast. This is my space where I share my journey in the world of web development and AI.
@@ -22,21 +22,41 @@ In this repository, you'll find the source code for my personal website, where I
 
 [![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23092E20)](https://www.djangoproject.com/)
 
-[![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=%2361DAFB)](https://react.dev/)
+[![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23A30000)](https://www.django-rest-framework.org/)
 
-[![WordPress](https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=black&color=%2321759B)](https://wordpress.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&color=%23F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-[![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=black&color=%23FCC624)](https://www.linux.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](https://developer.mozilla.org/es/docs/Web/HTML)
 
-[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23F05032)](https://git-scm.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=%231572B6)](https://developer.mozilla.org/es/docs/Web/CSS)
 
-[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=%23181717)](https://github.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&color=%23336791)](https://www.postgresql.org/)
 
-[![WebSockets](https://img.shields.io/badge/WebSockets-white?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=black&color=%23010101)](https://developer.mozilla.org/es/docs/Web/API/WebSockets_API)
+[![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&color=%2300758F)](https://www.w3schools.com/sql/)
 
-- Web Development: HTML, CSS, JavaScript
-- Backend Technologies: Python, Node.js
-- Front-End Frameworks: React, Vue.js
+[![REST API](https://img.shields.io/badge/REST_APIs-white?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black&color=%23009688)](https://developer.mozilla.org/es/docs/Glossary/REST)
+
+[![JWT](https://img.shields.io/badge/JWT_Authentication-white?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=black&color=%23000000)](https://jwt.io/)
+
+[![Django Channels](https://img.shields.io/badge/Django_Channels-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23092E20)](https://channels.readthedocs.io/)
+
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-white?style=for-the-badge&logo=cloudinary&logoColor=white&labelColor=black&color=%233448C5)](https://cloudinary.com/)
+
+[![Responsive Design](https://img.shields.io/badge/Responsive_Design-white?style=for-the-badge&logo=responsive&logoColor=white&labelColor=black&color=%23000000)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+
+[![Agile](https://img.shields.io/badge/Agile_Methodologies-white?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=black&color=%2300AEEF)](https://www.atlassian.com/agile)
+
+[![Full Stack](https://img.shields.io/badge/Full_Stack_Development-white?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=black&color=%23000000)]()
+
+- Web Development: HTML5, CSS3, JavaScript (ES6+)
+- Backend Technologies: Python, Django, Django REST Framework (DRF)
+- Front-End Frameworks: React.js
+- Databases: PostgreSQL, SQL
+- APIs & Authentication: REST APIs, JWT Authentication, WebSockets
+- Cloud & Storage: Cloudinary
+- Version Control: Git, GitHub
+- Development Practices: Responsive Design, Agile Methodologies
+- Full Stack Development
 <br>
 
 ## Relevant Links 🌐
@@ -72,7 +92,7 @@ I hope you enjoy exploring my repository! Thanks for visiting! 👋
 # Hola, mi nombre es Lucia De León 👩🏼‍💻 🇪🇸
 ### Desarrollador Full-Stack y estudiante de IA 🚀
 
-<img width="1983" height="793" alt="ChatGPT Image 9 jul 2026, 21_50_19" src="https://github.com/user-attachments/assets/3dc6852c-a18e-4dfd-b717-6f0469f18304" />
+<img width="1983" height="793" alt="ChatGPT Image 9 jul 2026, 22_14_04" src="https://github.com/user-attachments/assets/d5239dfb-d270-474f-bbb6-5527a542d4f9" />
 
 
 ¡Saludos! Soy Lucia De Leon, una apasionada aprendiz de desarrollo Full-Stack e IA. Este es mi espacio donde comparto mi viaje en el mundo del desarrollo web .
@@ -91,21 +111,40 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 
 [![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23092E20)](https://www.djangoproject.com/)
 
-[![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=%2361DAFB)](https://react.dev/)
+[![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23A30000)](https://www.django-rest-framework.org/)
 
-[![WordPress](https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=black&color=%2321759B)](https://wordpress.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&color=%23F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-[![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=black&color=%23FCC624)](https://www.linux.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](https://developer.mozilla.org/es/docs/Web/HTML)
 
-[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23F05032)](https://git-scm.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=%231572B6)](https://developer.mozilla.org/es/docs/Web/CSS)
 
-[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=%23181717)](https://github.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&color=%23336791)](https://www.postgresql.org/)
 
-[![WebSockets](https://img.shields.io/badge/WebSockets-white?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=black&color=%23010101)](https://developer.mozilla.org/es/docs/Web/API/WebSockets_API)
-- Desarrollo Web: HTML, CSS, JavaScript
-- Tecnologías Back-End: Python, Node.js
-- Frameworks Front-End: React, Vue.js
+[![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black&color=%2300758F)](https://www.w3schools.com/sql/)
 
+[![REST API](https://img.shields.io/badge/REST_APIs-white?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black&color=%23009688)](https://developer.mozilla.org/es/docs/Glossary/REST)
+
+[![JWT](https://img.shields.io/badge/JWT_Authentication-white?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=black&color=%23000000)](https://jwt.io/)
+
+[![Django Channels](https://img.shields.io/badge/Django_Channels-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23092E20)](https://channels.readthedocs.io/)
+
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-white?style=for-the-badge&logo=cloudinary&logoColor=white&labelColor=black&color=%233448C5)](https://cloudinary.com/)
+
+[![Responsive Design](https://img.shields.io/badge/Responsive_Design-white?style=for-the-badge&logo=responsive&logoColor=white&labelColor=black&color=%23000000)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+
+[![Agile](https://img.shields.io/badge/Agile_Methodologies-white?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=black&color=%2300AEEF)](https://www.atlassian.com/agile)
+
+[![Full Stack](https://img.shields.io/badge/Full_Stack_Development-white?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=black&color=%23000000)]()
+- Web Development: HTML5, CSS3, JavaScript (ES6+)
+- Backend Technologies: Python, Django, Django REST Framework (DRF)
+- Front-End Frameworks: React.js
+- Databases: PostgreSQL, SQL
+- APIs & Authentication: REST APIs, JWT Authentication, WebSockets
+- Cloud & Storage: Cloudinary
+- Version Control: Git, GitHub
+- Development Practices: Responsive Design, Agile Methodologies
+- Full Stack Development
 <br>
 
 ## Enlaces Relevantes 🌐
