@@ -2,7 +2,8 @@
 # Hi, I'm Lucia De León 👩🏼‍💻 EN
 ### Full-Stack Developer and IA student🚀
 
-![backgroung witdh](https://github.com/user-attachments/assets/8f3aed7f-3e67-40ed-8354-6f05416672ab)
+<img width="1983" height="793" alt="ChatGPT Image 9 jul 2026, 21_50_19" src="https://github.com/user-attachments/assets/fb100ecd-11e9-46e0-a8db-a59d5068e2fa" />
+)
 
 <br>
 Salut! I´m Lucia De Leon , a passionate aspiring Full-Stack developer and a AI enthusiast. This is my space where I share my journey in the world of web development and AI.
@@ -17,7 +18,21 @@ In this repository, you'll find the source code for my personal website, where I
 
 ## Technologies Used 🛠️
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
+
+[![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23092E20)](https://www.djangoproject.com/)
+
+[![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=%2361DAFB)](https://react.dev/)
+
+[![WordPress](https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=black&color=%2321759B)](https://wordpress.org/)
+
+[![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=black&color=%23FCC624)](https://www.linux.org/)
+
+[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23F05032)](https://git-scm.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=%23181717)](https://github.com/)
+
+[![WebSockets](https://img.shields.io/badge/WebSockets-white?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=black&color=%23010101)](https://developer.mozilla.org/es/docs/Web/API/WebSockets_API)
 
 - Web Development: HTML, CSS, JavaScript
 - Backend Technologies: Python, Node.js
@@ -37,7 +52,8 @@ If you're interested in exploring my progress in the world of Full-Stack develop
  https://github.com/Lucy-nube/Css-Microsite02_Portfolio.git
 <br>
  https://github.com/Lucy-nube/CSS-Elearning-Landingpage-responsive-.git
-
+<br>
+  https://github.com/Lucy-nube/whereNextPMF.git
 <br>
 
 ## Contact Me 📫
@@ -56,7 +72,8 @@ I hope you enjoy exploring my repository! Thanks for visiting! 👋
 # Hola, mi nombre es Lucia De León 👩🏼‍💻 🇪🇸
 ### Desarrollador Full-Stack y estudiante de IA 🚀
 
-![backgroung](https://github.com/user-attachments/assets/8f3aed7f-3e67-40ed-8354-6f05416672ab)
+<img width="1983" height="793" alt="ChatGPT Image 9 jul 2026, 21_50_19" src="https://github.com/user-attachments/assets/3dc6852c-a18e-4dfd-b717-6f0469f18304" />
+
 
 ¡Saludos! Soy Lucia De Leon, una apasionada aprendiz de desarrollo Full-Stack e IA. Este es mi espacio donde comparto mi viaje en el mundo del desarrollo web .
 
@@ -70,8 +87,21 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 
 ## Tecnologías utilizadas 🛠️
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
 
+[![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23092E20)](https://www.djangoproject.com/)
+
+[![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=%2361DAFB)](https://react.dev/)
+
+[![WordPress](https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=black&color=%2321759B)](https://wordpress.org/)
+
+[![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=black&color=%23FCC624)](https://www.linux.org/)
+
+[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23F05032)](https://git-scm.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=%23181717)](https://github.com/)
+
+[![WebSockets](https://img.shields.io/badge/WebSockets-white?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=black&color=%23010101)](https://developer.mozilla.org/es/docs/Web/API/WebSockets_API)
 - Desarrollo Web: HTML, CSS, JavaScript
 - Tecnologías Back-End: Python, Node.js
 - Frameworks Front-End: React, Vue.js
@@ -89,6 +119,8 @@ Si estás interesado en explorar mi progreso en el mundo del desarrollo Full-Sta
  https://github.com/Lucy-nube/Css-Header-GathSession.git
 <br>
  https://github.com/Lucy-nube/Css-Microsite02_Portfolio-responsive-.git
+<br>
+  https://github.com/Lucy-nube/whereNextPMF.git
 <br>
 
 
